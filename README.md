@@ -1,5 +1,5 @@
 ### Olá, eu sou Marlon Xavier. 👋
-- 🔭 Atualmente eu trabalho com frontend.
+- 🔭 Atualmente eu trabalho com front end.
 - 🌱 Estou estudando JavaScrip(Avançado).
 - 📫 Contate-me pelo e-mail/Whatsapp: filhomarlon@hotmail.com/ 92 9 8153-8181.
 
